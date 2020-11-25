@@ -11,9 +11,10 @@ First, we will describe the datasets to be used in this tutorial and later explo
 
 #### <ins>Datasets</ins> 
 Two datasets will be studyied here;
-```
-1. The volume in liters **l**
-2. 
-```
+
+1. The volume in liters (*l*) of a liquid and the corresponding mass of the container plus the solution in kilograms (*kg*). 
+2. Distance measurements in kilometers (*km*) between a pickup address and the delivery address with the corresponding time in seconds (*sec*) between arrival at the pickup address and the delivery at the destination specified by the client. The latter dataset was downloaded from ZINDI website, on the sendy logistics challenge, though adapted here to our convience. The original dataset of more than 30 variables provides data on order details, biker rider metrics and atmospheric conditions in the cities of Nairobi based on orders made on the Sendy platform. This dataset will be used a number of times in these tutorials and in a constructive manner. 
+
+#### <ins> Exploratory Data Analysis (EDA) </ins>
 #### <ins>Algorithm Description</ins>
 According to Wikipedia, linear least squares regression (which will be discussed in this post), dates from the 19th Century and was first published by Legendre and Gauss respectively in 1805 and 1809. Their goal was to use astronomical observations to determine the orbit of comets around the sun.
