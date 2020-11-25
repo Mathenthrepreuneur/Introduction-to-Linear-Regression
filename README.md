@@ -12,7 +12,7 @@ First, we will describe the datasets to be used in this tutorial and later explo
 #### <ins>Datasets</ins> 
 Two datasets will be studyied here;
 ```
-1. The volume in liters _l_
+1. The volume in liters *l*
 2. 
 ```
 #### <ins>Algorithm Description</ins>
