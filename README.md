@@ -7,6 +7,9 @@ Linear regression is one of the most basic and well-known algorithms in the stat
           * The mathematical principles underlying this algorithm.
           * Linear regression assumptions.
           * How to apply the linear regression algorithm in python by applying it on real-life datasets.
+First, we will describe the datasets to be used in this tutorial and later explore the linear squares algorithm. 
 
-#### Algorithm Description
+#### <ins>Datasets</ins> 
+
+#### <ins>Algorithm Description</ins>
 According to Wikipedia, linear least squares regression (which will be discussed in this post), dates from the 19th Century and was first published by Legendre and Gauss respectively in 1805 and 1809. Their goal was to use astronomical observations to determine the orbit of comets around the sun.
